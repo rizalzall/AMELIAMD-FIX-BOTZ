@@ -66,7 +66,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
+global.nomorbot = '6287784028546'
 global.nomorown = '6281333154367'
 global.nomorown1 = '61483906014'
 global.nomorown2 = '6281392128956'//bisa nama pacarmu
