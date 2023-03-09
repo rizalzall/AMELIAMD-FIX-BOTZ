@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : PutraModz
+${htjava} *💌 Nama* : Zall
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 19
-${htjava} *🧮 Kelas* : 3 SMK
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
-${htjava} *💬 Sifat* : NOTHING
-${htjava} *🗺️ Tinggal* : Indo, Kuningan, Jawa Barat
-${htjava} *❤️ Pacar* : AMELIA PUTRI SEPTIANY 🥰
+${htjava} *⏰ Tanggal lahir* : Private 
+${htjava} *🎨 Umur* : Private
+${htjava} *🧮 Kelas* : Private
+${htjava} *🧩 Hobby* : Mangan Turu
+${htjava} *💬 Sifat* : Netral
+${htjava} *🗺️ Tinggal* : Indonesia
+${htjava} *❤️ Idola* : Yuzuriha Karen
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
